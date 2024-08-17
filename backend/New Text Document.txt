@@ -1,0 +1,1 @@
+npm install express cors sequelize mysql2 jsonwebtoken express-rate-limit
